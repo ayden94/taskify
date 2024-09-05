@@ -1,7 +1,7 @@
 .header {
   display: grid;
-  grid-template-columns: min-content auto min-content min-content;
-  grid-template-areas: "logo . login signup";
+  grid-template-columns: min-content auto max-content min-content min-content;
+  grid-template-areas: "logo . test login signup";
   gap: 4rem;
   align-items: center;
   padding: 0 8rem 0 2.4rem;
@@ -22,6 +22,10 @@
 
 .logo__picture {
   width: 11rem;
+}
+
+.test_link {
+  grid-area: test;
 }
 
 .login__link {
