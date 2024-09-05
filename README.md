@@ -5,7 +5,7 @@
 
 ## 배포 주소
 
-[일정 관리, 필요해? Taskify](https://taskify-harigari.vercel.app/)
+[일정 관리, 필요해? Taskify](taskify-ayden.vercel.app)
 
 ## 기술 스택
 
